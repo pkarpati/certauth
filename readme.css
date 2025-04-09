@@ -1,0 +1,17 @@
+html {
+  background-color: #111;
+  color: seashell;
+  text-align: justify;
+  line-height: 1.5;
+}
+body {
+  max-width: 500px;
+  margin: auto;
+}
+code:not([class="code-code"]) {
+  background-color: #222;
+  border: 1px solid #ccc;
+}
+ul, ol {
+  padding-left: 1rem;
+}
